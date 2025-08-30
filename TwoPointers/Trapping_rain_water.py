@@ -21,6 +21,7 @@
 #  0 2 0 3 1 0 1 3 2 1
 #
 # Water fills the dips. Add it up → total = 9 units.
+from collections import List
 class Solution:
     def trap(self, height: List[int]) -> int:
         # If the array is empty, no bars = no water
