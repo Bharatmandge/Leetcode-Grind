@@ -4,7 +4,7 @@ Problem:
 Design an algorithm to encode a list of strings to a single string.
 The encoded string is then decoded back to the original list of strings.
 
-We need two functions:
+We need two fu
 1. encode(strs): converts list -> single string
 2. decode(s): converts single string -> list
 
